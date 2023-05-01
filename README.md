@@ -25,6 +25,10 @@ Viendo la evolución de la contaminación se quiere comprobar si estas actuacion
 - Contaminantes medidos (código, nombre y unidad de medida)
 - Valores medidos desde junio de 2018 a enero de 2023 
 
+Notebook Jupyter: calidad_aire_barcelona.ipynb
+Análisis de datos con Power BI: air quality bcn.pbix
+Presentación con PowerPoint: Air quality bcn.pptx
+
 ### Fuente de datos 
 
 <https://opendata-ajuntament.barcelona.cat/data/es/organization/medi-ambient>
